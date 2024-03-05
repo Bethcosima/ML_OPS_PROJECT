@@ -4,7 +4,7 @@
 
 <h1 align= left> Introducción
   
-<p align= 'justify'>En este proyecto se trata de realizar un modelo de ML el cual pretende crear una recomendación de videojuegos para usuarios. Durante el proyecto se realizaron trabajos de Data Engineer para obtener un Producto Minimamente Viable (MVP, por sus siglas en inglés) enfocado en consultar datos específicos y la recomendación de juegos similares a otros juegos dados por el usuario.
+<p align= justify>En este proyecto se trata de realizar un modelo de ML el cual pretende crear una recomendación de videojuegos para usuarios. Durante el proyecto se realizaron trabajos de Data Engineer para obtener un Producto Minimamente Viable (MVP, por sus siglas en inglés) enfocado en consultar datos específicos y la recomendación de juegos similares a otros juegos dados por el usuario.
 
 El proyecto tiene principalmente cómo objetivo desarrollar una API de manera que la empresa tenga disponibles los datos usando FastAPI de manera local y posteriormente deployando en render, así mediante este ultimo  se puedan realizar consultas.</p> 
 
