@@ -49,7 +49,7 @@ También en esta parte se intento separar los dataset en solamente las columnas 
 <h1 align= left>Desarrollo de la API</h1>
 <p align = justify>Se desarrollaron 6 funciones para utilizar con FastAPI y posterior a eso deployar en un host como render, las funciones y su uso es el siguiente: 
 
-**developer*: Cantidad de items y porcentaje de contenido Free por año según empresa desarrolladora. 
+**developer**: Cantidad de items y porcentaje de contenido Free por año según empresa desarrolladora. 
 
 **userdata**: Debe devolver cantidad de dinero gastado por el usuario, el porcentaje de recomendación en base a reviews.recommend y cantidad de items.
 
