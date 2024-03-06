@@ -69,7 +69,7 @@ Estas podemos encontrarlas en el siguiente archivo [requirements.txt](requiremen
 
 Link de GitHub: https://github.com/Bethcosima/Proyecto-ind1_ML.git
 
-Link del video:
+Link del video: https://youtu.be/aFecF26PaxE
 
 Link de API: 
 
