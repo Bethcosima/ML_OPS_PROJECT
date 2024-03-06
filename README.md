@@ -60,10 +60,10 @@ También en esta parte se intento separar los dataset en solamente las columnas 
 **recomendacion_juego**:  Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
 </p>
 
-#Tecnologías usadas
+# Tecnologías usadas
 Estas podemos encontrarlas en el siguiente archivo [requirements.txt](requirements.txt)
 
-#Autor
+# Autor
 
 Link de GitHub: https://github.com/Bethcosima/Proyecto-ind1_ML.git
 
