@@ -71,4 +71,4 @@ Link de GitHub: https://github.com/Bethcosima/ML_OPS_PROJECT
 
 Link del video: https://youtu.be/aFecF26PaxE
 
-Link de API: https://tense-cassandry-bethcosima.koyeb.app/
+Link de API: https://tense-cassandry-bethcosima.koyeb.app/docs
