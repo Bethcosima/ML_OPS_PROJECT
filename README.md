@@ -35,7 +35,8 @@ Los archivos anteriores se pueden encontrar en la carpeta de archivos dentro de 
 <p align = justify>En esta etapa se llevó a cabo la extracción de los datasets antes mencionados, se llevó a cabo una limpieza en los datos y se hicieron tranformaciones necesarias como el cambio de tipo de dato en las columnas para posteriormente usarlas en la API. También se eliminaron columnas que no eran de nuestro interes en cada uno de los datasets con el fin de más adelante convertir los datasets en archivos parquet.</p>
 
 <h1 align= left>Feature engineering</h1>
-<p align = justify>Aquí se realizó el analisis de sentimientos con la librería de textBlob aplicandola a una de las columnas donde se encontraban los comentarios de los usuarios, siendo [reviews](ETL-EDA/Archivos/reviews.parquet) el dataset a utilizado ya que fue el resultado del etl y contiene los datos necesarios para esta etapa</p>
+
+<p align = justify>Aquí se realizó el analisis de sentimientos con la librería de textBlob aplicandola a una de las columnas donde se encontraban los comentarios de los usuarios, siendo <b>[reviews](ETL-EDA/Archivos/reviews.parquet)</b> el dataset a utilizado ya que fue el resultado del etl y contiene los datos necesarios para esta etapa</p>
 
 <h1 align= left>Datasets</h1>
 <p align = justify></p>
