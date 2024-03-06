@@ -36,7 +36,7 @@ Los archivos anteriores se pueden encontrar en la carpeta de archivos dentro de 
 
 <h1 align= left>Feature engineering</h1>
 
-<p align = justify>Aquí se realizó el analisis de sentimientos con la librería de textBlob aplicandola a una de las columnas donde se encontraban los comentarios de los usuarios, siendo <b>[reviews](ETL-EDA/Archivos/reviews.parquet)</b> el dataset a utilizado ya que fue el resultado del etl y contiene los datos necesarios para esta etapa</p>
+<p align = justify>Aquí se realizó el analisis de sentimientos con la librería de textBlob aplicandola a una de las columnas donde se encontraban los comentarios de los usuarios, siendo reviews.parquet el dataset a utilizado ya que fue el resultado del etl y contiene los datos necesarios para esta etapa. Podemos encontrar el notebook de esta seccion en el siguiente linkg: [FE_API.ipnyb](ETL-EDA/FE_API.ipynb)</p>
 
 <h1 align= left>Datasets</h1>
 <p align = justify></p>
