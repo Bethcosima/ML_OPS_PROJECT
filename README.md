@@ -67,11 +67,8 @@ Estas podemos encontrarlas en el siguiente archivo [requirements.txt](requiremen
 
 # Autor
 
-Link de GitHub: https://github.com/Bethcosima/Proyecto-ind1_ML.git
+Link de GitHub: https://github.com/Bethcosima/ML_OPS_PROJECT
 
 Link del video: https://youtu.be/aFecF26PaxE
 
-Link de API: 
-
-<h1 align= left>Conclusiones</h1>
-<p align = justify></p>
+Link de API: https://tense-cassandry-bethcosima.koyeb.app/
