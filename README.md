@@ -44,7 +44,7 @@ También en esta parte se intento separar los dataset en solamente las columnas 
 <h1 align= left>Análisis Eploratorio de Datos (EDA)</h1>
 
 <p align = justify>En esta parte del proyecto se realizó el análisis de los daset después de haber realizado el ETL, obteniendo una mejor visualziacion  de las variables. Con el fin de idenfiticar que variables serían necesarias para el modelo de Machine Learning</p>
-![EDA](/ETL-EDA/EDA.ipynb)
+[EDA](ML_OPS_PROJECT/ETL-EDA/EDA.ipynb)
 
 <h1 align= left>Datasets</h1>
 <p align = justify></p>
