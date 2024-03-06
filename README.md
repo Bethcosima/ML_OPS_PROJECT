@@ -1,3 +1,12 @@
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)
+![Scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![TextBlob](https://img.shields.io/badge/-TextBlob-333333?style=flat&logo=textblob)
+![Render](https://img.shields.io/badge/-Render-333333?style=flat&logo=render)
+
 <h1 align= center>PROYECTO INDIVIDUAL N°1<h1>
 <h1 align= center>Machine Learning Operations</h1>
 <p align=center><img src=https://www.edsrobotics.com/wp-content/uploads/2021/01/deep-learning.jpg><p>
@@ -17,5 +26,8 @@ El proyecto tiene principalmente cómo objetivo desarrollar una API de manera qu
 </p>
 
 
-<h1 align= left>Datasets<h1>
+<h1 align= left></h1>
+<p align = justify></p>
+
+<h1 align= left>Datasets</h1>
 <p align = justify></p>
