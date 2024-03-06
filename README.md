@@ -44,8 +44,21 @@ También en esta parte se intento separar los dataset en solamente las columnas 
 <h1 align= left>Análisis Eploratorio de Datos (EDA)</h1>
 
 <p align = justify>En esta parte del proyecto se realizó el análisis de los daset después de haber realizado el ETL, obteniendo una mejor visualziacion  de las variables. Con el fin de idenfiticar que variables serían necesarias para el modelo de Machine Learning</p>
-[EDA](ML_OPS_PROJECT/ETL-EDA/EDA.ipynb)
+
+
+<h1 align= left>Desarrollo de la API</h1>
+<p align = justify>Se desarrollaron 6 funciones para utilizar con FastAPI y posterior a eso deployar en un host como render, las funciones y su uso es el siguiente: 
+
+userdata: Debe devolver cantidad de dinero gastado por el usuario, el porcentaje de recomendación en base a reviews.recommend y cantidad de items.
+
+UserforGenre: Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año de lanzamiento.
+
+best_developer_year: Devuelve el top 3 de desarrolladores con juegos MÁS recomendados por usuarios para el año dado. (reviews.recommend = True y comentarios positivos).
+
+developer_reviews_analysis: Según el desarrollador, se devuelve un diccionario con el nombre del desarrollador como llave y una lista con la cantidad total de registros de reseñas de usuarios que se encuentren categorizados con un análisis de sentimiento como valor positivo o negativo.
+
+recomendacion_juego:  Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
+</p>
 
 <h1 align= left>Datasets</h1>
 <p align = justify></p>
-
