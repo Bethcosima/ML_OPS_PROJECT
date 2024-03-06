@@ -36,9 +36,15 @@ Los archivos anteriores se pueden encontrar en la carpeta de archivos dentro de 
 
 <h1 align= left>Feature engineering</h1>
 
-<p align = justify>Aquí se realizó el analisis de sentimientos con la librería de textBlob aplicandola a una de las columnas donde se encontraban los comentarios de los usuarios, siendo reviews.parquet el dataset a utilizado ya que fue el resultado del etl y contiene los datos necesarios para esta etapa. Podemos encontrar el notebook de esta seccion en el siguiente link: [FE_API.ipynb](ETL-EDA/FE_API.ipynb)
+<p align = justify>Aquí se realizó el analisis de sentimientos con la librería de textBlob aplicandola a una de las columnas donde se encontraban los comentarios de los usuarios, siendo reviews.parquet el dataset a utilizado ya que fue el resultado del etl y contiene los datos necesarios para esta etapa. Podemos encontrar el notebook de esta seccion en el siguiente link: FE_API.ipynb.
+También en esta parte se intento separar los dataset en solamente las columnas usadas, además podemos encontrar el desarrollo de las funciones para la api, antes de pasarlas a un archivo .py, pero este desarrollo se describe más adelante
 </p>
 
+
+<h1 align= left>Análisis Eploratorio de Datos (EDA)</h1>
+
+<p align = justify>En esta parte del proyecto se realizó el análisis de los daset después de haber realizado el ETL, obteniendo una mejor visualziacion  de las variables. Con el fin de idenfiticar que variables serían necesarias para el modelo de Machine Learning</p>
+![EDA](/ETL-EDA/EDA.ipynb)
 
 <h1 align= left>Datasets</h1>
 <p align = justify></p>
