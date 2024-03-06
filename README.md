@@ -31,8 +31,8 @@ Los archivos anteriores se pueden encontrar en la carpeta de archivos dentro de 
 </p>
 
 
-<h1 align= left></h1>
-<p align = justify></p>
+<h1 align= left>Extracción, Transformaión y Carga (ETL)</h1>
+<p align = justify>En esta etapa se llevó a cabo la extracción de los datasets antes mencionados, se llevó a cabo una limpieza en los datos y se hicieron tranformaciones necesarias como el cambio de tipo de dato en las columnas para posteriormente usarlas en la API. También se eliminaron columnas que no eran de nuestro interes en cada uno de los datasets con el fin de más adelante convertir los datasets en archivos parquet.</p>
 
 <h1 align= left>Datasets</h1>
 <p align = justify></p>
