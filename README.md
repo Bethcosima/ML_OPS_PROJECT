@@ -49,7 +49,7 @@ También en esta parte se intento separar los dataset en solamente las columnas 
 <h1 align= left>Desarrollo de la API</h1>
 <p align = justify>Se desarrollaron 6 funciones para utilizar con FastAPI y posterior a eso deployar en un host como render, las funciones y su uso es el siguiente: 
 
-* **'userdata'**: Debe devolver cantidad de dinero gastado por el usuario, el porcentaje de recomendación en base a reviews.recommend y cantidad de items.
+**´userdata´**: Debe devolver cantidad de dinero gastado por el usuario, el porcentaje de recomendación en base a reviews.recommend y cantidad de items.
 
 UserforGenre: Debe devolver el usuario que acumula más horas jugadas para el género dado y una lista de la acumulación de horas jugadas por año de lanzamiento.
 
