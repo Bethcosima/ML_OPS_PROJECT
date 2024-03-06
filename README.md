@@ -23,9 +23,9 @@ El proyecto tiene principalmente cómo objetivo desarrollar una API de manera qu
   
 -<b>[output_steam_games.json](ETL-EDA/Archivos/output_steam_games.parquet)</b> En el cual podemos encontrar la información de los juegos como es el nombre, precio, fecha de lanzamiento, desarrolladora, etc.
 
--<b>australian_users_items.json</b> Aquí encontramos la ifnormación de los usuarios que utilizan estos juegos, así como el tiempo de juego.
+-<b>[australian_users_items.json](ETL-EDA/Archivos/australian_users_items.parquet)</b> Aquí encontramos la ifnormación de los usuarios que utilizan estos juegos, así como el tiempo de juego.
 
--<b>autralian_users_reviews.json</b> En este archivo encontramos las recomendaciones de los usuarios, las reviews, ademas del id de usuario.
+-<b>[autralian_users_reviews.json](ETL-EDA/Archivos/australian_user_reviews.parquet)</b> En este archivo encontramos las recomendaciones de los usuarios, las reviews, ademas del id de usuario.
 
 Los archivos anteriores se pueden encontrar en la carpeta de archivos dentro de la carpeta ETL/EDA, se decidió subirlos en formato parquet debido a que esto ahorraría espacio para posteriormente deployarlo en render o cualquier otra aplicación de hosting
 </p>
