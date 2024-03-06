@@ -20,8 +20,11 @@ El proyecto tiene principalmente cómo objetivo desarrollar una API de manera qu
 <h1 align= left>Datasets</h1>
   
 <p align = justify> Para poder llevar a cabo el desarrollo de este proyecto se proporcionaron 3 archivos de tipo JSON:
+  
 -<b>output_steam_games.json</b> En el cual podemos encontrar la información de los juegos como es el nombre, precio, fecha de lanzamiento, desarrolladora, etc.
+
 -<b>australian_users_items.json</b> Aquí encontramos la ifnormación de los usuarios que utilizan estos juegos, así como el tiempo de juego.
+
 -<b>autralian_users_reviews.json</b> En este archivo encontramos las recomendaciones de los usuarios, las reviews, ademas del id de usuario.
 </p>
 
