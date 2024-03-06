@@ -60,5 +60,11 @@ También en esta parte se intento separar los dataset en solamente las columnas 
 **recomendacion_juego**:  Ingresando el id de producto, deberíamos recibir una lista con 5 juegos recomendados similares al ingresado.
 </p>
 
-<h1 align= left>Datasets</h1>
+#Tecnologías usadas
+Estas podemos encontrarlas en el siguiente archivo [requirements.txt]()
+
+#Autor
+
+
+<h1 align= left>Conclusiones</h1>
 <p align = justify></p>
